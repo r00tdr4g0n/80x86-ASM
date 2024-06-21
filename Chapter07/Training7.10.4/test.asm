@@ -10,7 +10,7 @@ _fact:
     mov ebp, esp
     mov eax, [ebp + 8]
     cmp eax, 1
-    jz done
+    je done
     dec eax
     push eax
     call _fact
