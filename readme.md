@@ -34,3 +34,4 @@
 - [7.11.23 연습](/Chapter07/Exercise7.11.23/)
 - [7.11.23 연습](/Chapter07/Exercise7.11.24/)
 - [7.11.23 연습](/Chapter07/Exercise7.11.25/)
+- [7.11.23 연습](/Chapter07/Exercise7.11.27/)
