@@ -35,3 +35,8 @@
 - [7.11.24 연습](/Chapter07/Exercise7.11.24/)
 - [7.11.25 연습](/Chapter07/Exercise7.11.25/)
 - [7.11.27 연습](/Chapter07/Exercise7.11.27/)
+
+#### 8장
+- [8.1.3 실습](/Chapter08/Training8.1.3/)
+<br>
+
