@@ -38,5 +38,7 @@
 
 #### 8장
 - [8.1.3 실습](/Chapter08/Training8.1.3/)
+- [8.5.2 실습](/Chapter08/Training8.5.2/)
+- [8.5.3 실습](/Chapter08/Training8.5.3/)
 <br>
 
